@@ -1,0 +1,15 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                       Test Method: 'Facebook.Tests.login'                                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" @05-01-2025 23:33:19.0323 PM
+[ReportManager] Initial URL: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" @05-01-2025 23:33:19.0337 PM
+[ReportManager] Navigate to url "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login". @05-01-2025 23:33:20.0018 PM
+[ReportManager] Type "Username" @05-01-2025 23:33:22.0956 PM
+[ReportManager] Type "Password" @05-01-2025 23:33:23.0260 PM
+[ReportManager] Click "Login" @05-01-2025 23:33:23.0378 PM
+[ReportManager] Click "Admin" @05-01-2025 23:33:26.0575 PM
+[ReportManager] Get text "(18) Records Found" from "By.xpath: //span[@class="oxd-text oxd-text--span"] [contains(.,'Records')]". @05-01-2025 23:33:28.0808 PM
+[ReportManager] Click " Add" @05-01-2025 23:33:29.0306 PM
